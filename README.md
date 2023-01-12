@@ -25,3 +25,7 @@ Now, You will see this screen, which means Irssi chat is successfully installed 
 
 
 ![irrsi Blue Colored Text in Termux](https://user-images.githubusercontent.com/86516808/212106183-d2f2e6b6-aff2-4e49-ba08-a9b8e4c12dd2.png)
+
+
+
+![change your name in irssi](https://user-images.githubusercontent.com/86516808/212106509-c3c861f4-0488-4b2f-b46d-cc452644603b.png)

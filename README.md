@@ -22,3 +22,6 @@ Now to start Irssi Chat you just have to type irssi on your terminal and your IR
 irssi
 
 Now, You will see this screen, which means Irssi chat is successfully installed in your Termux.
+
+
+![irrsi Blue Colored Text in Termux](https://user-images.githubusercontent.com/86516808/212106183-d2f2e6b6-aff2-4e49-ba08-a9b8e4c12dd2.png)

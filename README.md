@@ -29,3 +29,8 @@ Now, You will see this screen, which means Irssi chat is successfully installed 
 
 
 ![change your name in irssi](https://user-images.githubusercontent.com/86516808/212106509-c3c861f4-0488-4b2f-b46d-cc452644603b.png)
+
+
+DOWNLOAD TERMUX APK DOWN BELOW
+
+[DONLOAD LATEST VERSION OF TERMUX](https://f-droid.org/repo/com.termux_118.apk)
